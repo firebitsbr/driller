@@ -1,4 +1,4 @@
 driller
 =======
 
-Vulnerability Assessment System in Golang
+web application scanner in Golang
